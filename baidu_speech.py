@@ -4,9 +4,9 @@ from aip import AipSpeech
 
 # 配置信息
 config = {
-    'APP_ID': '115778117',
-    'API_KEY': 'ItneyZFSvqaJLweLsWIrHkwM',
-    'SECRET_KEY': 'wUSdLBSSkayKu5mAa6oZnUc77wQYZGAV',
+    'APP_ID': '----',
+    'API_KEY': '------',
+    'SECRET_KEY': '----',
     'sample_rate': 16000,
     'channels': 1,
     'dtype': 'int16',
