@@ -3,7 +3,7 @@ import requests
 # 提供的Kimi API密钥
 from openai import OpenAI
 
-API_KEY = 'sk-rXnCXckoXy1v67VmMOZFfff4Bl2kypzv7PGoYx0PqStsHPLj'
+API_KEY = '----'
 
 # Kimi API的基础URL
 API_BASE = "https://api.moonshot.cn/v1"
